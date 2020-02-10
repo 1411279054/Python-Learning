@@ -26,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -35,7 +35,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.罗马数字转阿拉伯数字">
+  <component name="RunManager">
     <configuration name="两数之和" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="有意思的算法题" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,15 +190,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.两数之和" />
-      <item itemvalue="Python.罗马数字转阿拉伯数字" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.罗马数字转阿拉伯数字" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -214,6 +205,7 @@
       <workItem from="1580739330167" duration="2985000" />
       <workItem from="1581256235142" duration="921000" />
       <workItem from="1581257710195" duration="269000" />
+      <workItem from="1581317910309" duration="29000" />
     </task>
     <servers />
   </component>
@@ -229,10 +221,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="639" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1580633883393" />
-    <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1580743312256">
+    <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1581317936592">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580743312256" />
+    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581317936592" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1581257978404">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -269,10 +261,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580564226652" />
-    <state x="754" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1581257711885">
+    <state x="754" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1581317914042">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="754" y="303" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581257711885" />
+    <state x="754" y="303" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581317914042" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
