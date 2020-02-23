@@ -35,7 +35,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.盛水最多的容器">
     <configuration name="两数之和" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="有意思的算法题" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,6 +50,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/两数之和.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="盛水最多的容器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="有意思的算法题" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/盛水最多的容器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,6 +212,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.盛水最多的容器" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -206,6 +233,7 @@
       <workItem from="1581256235142" duration="921000" />
       <workItem from="1581257710195" duration="269000" />
       <workItem from="1581317910309" duration="29000" />
+      <workItem from="1582448325520" duration="2112000" />
     </task>
     <servers />
   </component>
@@ -225,22 +253,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581317936592" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1581257978404">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582466251384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581257978404" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1581257978404">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582466251384" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582466251384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581257978404" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1581257978404">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582466251384" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582466251383">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581257978404" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1581257978404">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582466251383" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582466251384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581257978404" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582466251384" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1580746988668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -261,10 +289,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580564226652" />
-    <state x="754" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1581317914042">
+    <state x="754" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1582448328277">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="754" y="303" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581317914042" />
+    <state x="754" y="303" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582448328277" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -318,6 +346,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$.coverage" NAME="罗马数字转阿拉伯数字 Coverage Results" MODIFIED="1581257888811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="盛水最多的容器 Coverage Results" MODIFIED="1582466251378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
