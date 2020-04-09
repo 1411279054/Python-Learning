@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d43dd1c0-a118-4c46-878d-36fbc999aa96" name="Default Changelist" comment="" />
+    <list default="true" id="d43dd1c0-a118-4c46-878d-36fbc999aa96" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../四月份算法题/机器人的活动范围.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../四月份算法题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../四月份算法题/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../四月份算法题" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -34,7 +38,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Python.卡牌分组">
+  <component name="RunManager">
     <configuration name="水壶问题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="三月份算法题" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -49,6 +53,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/水壶问题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="可以被捕获的棋子数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="三月份算法题" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/可以被捕获的棋子数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,8 +129,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.卡牌分组" />
-        <item itemvalue="Python.单词压缩编码" />
         <item itemvalue="Python.水壶问题" />
       </list>
     </recent_temporary>
@@ -120,6 +144,8 @@
       <option name="presentableId" value="Default" />
       <updated>1586263326142</updated>
       <workItem from="1586263327276" duration="7698000" />
+      <workItem from="1586305125486" duration="2665000" />
+      <workItem from="1586404031003" duration="18000" />
     </task>
     <servers />
   </component>
@@ -127,24 +153,32 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="746" height="235" key="GridCell.Tab.0.bottom" timestamp="1586270953561">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586404045945">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586270953561" />
-    <state width="746" height="235" key="GridCell.Tab.0.center" timestamp="1586270953561">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586404045945" />
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom" timestamp="1586358271142">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586270953561" />
-    <state width="746" height="235" key="GridCell.Tab.0.left" timestamp="1586270953561">
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586358271142" />
+    <state width="1493" height="235" key="GridCell.Tab.0.center" timestamp="1586358271141">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586270953561" />
-    <state width="746" height="235" key="GridCell.Tab.0.right" timestamp="1586270953561">
+    <state width="1493" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586358271141" />
+    <state width="1493" height="235" key="GridCell.Tab.0.left" timestamp="1586358271141">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586270953561" />
+    <state width="1493" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586358271141" />
+    <state width="1493" height="235" key="GridCell.Tab.0.right" timestamp="1586358271141">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586358271141" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586306638085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586306638085" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$.coverage" NAME="卡牌分组 Coverage Results" MODIFIED="1586270953554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="可以被捕获的棋子数 Coverage Results" MODIFIED="1586307484581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
