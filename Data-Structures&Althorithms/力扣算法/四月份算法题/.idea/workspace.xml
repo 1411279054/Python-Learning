@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8984ddb-3803-4769-a7e7-3c29409825f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/机器人的活动范围.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../三月份算法题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../三月份算法题/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c8984ddb-3803-4769-a7e7-3c29409825f9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/pycharm" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,7 +34,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Python.括号生成">
+  <component name="RunManager" selected="Python.旋转矩阵">
     <configuration name="旋转矩阵" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="四月份算法题" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +122,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.括号生成" />
         <item itemvalue="Python.深拷贝和浅拷贝1" />
         <item itemvalue="Python.旋转矩阵" />
       </list>
@@ -145,6 +140,7 @@
       <workItem from="1586240763699" duration="11955000" />
       <workItem from="1586305125365" duration="2381000" />
       <workItem from="1586404049907" duration="1584000" />
+      <workItem from="1586738409736" duration="42000" />
     </task>
     <servers />
   </component>
@@ -152,10 +148,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586263324819">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586738450046">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586263324819" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586738450046" />
     <state width="746" height="210" key="GridCell.Tab.0.bottom" timestamp="1586247620275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
